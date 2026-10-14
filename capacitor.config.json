@@ -1,6 +1,6 @@
 {
   "appId": "com.stokbarang.app",
-  "appName": "Stok Barang",
+  "appName": "StokKu",
   "webDir": "www",
   "android": {
     "backgroundColor": "#14213d"
